@@ -12,6 +12,6 @@
 -changed naming in draw_card method
 - method calculate, changed to count Ace as 11 on first run through then count how many aces exist and subtract 10 if the total is over 21.
 
--added mewling to output for readability
+-added new lineto output for readability
 
 
